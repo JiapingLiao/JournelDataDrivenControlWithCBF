@@ -1,43 +1,30 @@
-# Data-Driven Control Based on Control Barrier Functions with Recursive Feasibility Guarantee
+# JournelDataDrivenControlWithCBF
 
-This repository contains the simulation code for our article:  
-**"Data-Driven Control Based on Control Barrier Functions with Recursive Feasibility Guarantee."**
+This repository contains the simulation code for our paper **"Data-Driven Control Based on Control Barrier Functions with Recursive Feasibility Guarantee"**.
 
-## **Simulation Platform**
-- MATLAB/Simulink 2024b  
+## Related Tools and Software
+
+### **Simulation Platform**
+- MATLAB/Simulink **2024b** (recommended)
 - Required MATLAB Toolboxes:
-  - Control System Toolbox
-  - Optimization Toolbox
-  - Parallel Computing Toolbox
-  - Robust Control Toolbox
-- Additional toolboxes:
-  - Vehicle Dynamics Toolbox (optional)
+  - **Control System Toolbox**
+  - **Optimization Toolbox**
+  - **Parallel Computing Toolbox**
+  - **Robust Control Toolbox**
+  - **Automated Driving Toolbox**
+- Vehicle Dynamics Toolbox (if applicable)
+
+### **Additional Required Toolboxes**
+Please install the following toolboxes manually:
+
+- **YALMIP**: [Download Here](https://yalmip.github.io/download/)
+- **MOSEK**: [Download Here](https://www.mosek.com/downloads/)
+- **MPT3**: [Installation Guide](https://www.mpt3.org/pmwiki.php/Main/Installation)
 
 ## **Setup Instructions**
-### **1. Install MATLAB/Simulink and Required Toolboxes**
-- It is recommended to use **MATLAB/Simulink 2024b**.
-- Ensure the following toolboxes are installed:
-  - Control System Toolbox
-  - Optimization Toolbox
-  - Parallel Computing Toolbox
-  - Robust Control Toolbox
-
-### **2. Install Additional Toolboxes**
-For proper functionality, install the following third-party toolboxes:
-
-- **YALMIP** (for optimization modeling)  
-  Download and install from: [YALMIP Official Site](https://yalmip.github.io/download/)  
-
-- **MOSEK** (solver for optimization problems)  
-  Download and install from: [MOSEK Official Site](https://www.mosek.com/downloads/)  
-
-- **MPT3 (Multi-Parametric Toolbox 3)** (for set-based computations)  
-  Download and install from: [MPT3 Official Site](https://www.mpt3.org/pmwiki.php/Main/Installation)  
-
----
-
-## **Usage**
-1. Open MATLAB and navigate to the repository folder.
-2. Run the main simulation script:
-   ```matlab
-   run('main_simulation.mlx');
+1. Install MATLAB/Simulink (**2024b** recommended) along with the required toolboxes.
+2. Install the additional toolboxes listed above.
+3. Clone this repository:
+   ```sh
+   git clone https://github.com/your_repository_link.git
+   cd JournelDataDrivenControlWithCBF
