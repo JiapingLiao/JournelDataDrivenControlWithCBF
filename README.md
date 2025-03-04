@@ -80,7 +80,7 @@ Follow the steps below to set up the simulation environment:
 
 ### **Simulation Results For Adaptive Cruise Problem**
 
-1.Iteration Process and Robust Control Invariant Set. The red regions represent the construction process of the control invariant set using Algorithm \ref{alg:Construct Recursive Feasible Set} (results of the 1st, 6th, ..., 46th iterations). The blue region is the robust control invariant set verified by Theorem \ref{theorem Verification robust control invariant set}, highlighting the relationship between the control invariant set and robust control invariant set and the guiding role of the former in constructing the latter.
+1.Iteration Process and Robust Control Invariant Set. The red regions represent the construction process of the control invariant set using Algorithm 2 (results of the 1st, 6th, ..., 46th iterations). The blue region is the robust control invariant set verified by Theorem 4, highlighting the relationship between the control invariant set and robust control invariant set and the guiding role of the former in constructing the latter.
 <p align="center">
     <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/ACC/Figures/ACC1.jpg" width="500"><br>
     <b>Iteration Process and Robust Control Invariant Set.</b>
