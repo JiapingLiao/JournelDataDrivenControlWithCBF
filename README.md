@@ -43,21 +43,21 @@ Follow the steps below to set up the simulation environment:
 <table>
     <tr>
         <td align="center" style="background-color: #f0f0f0;">
-            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK3.jpg" width="400"><br>
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK3.jpg" width="300"><br>
             <b style="background-color: #f0f0f0;">Case 1: Lateral Displacement</b>
         </td>
         <td align="center" style="background-color: #f0f0f0;">
-            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK5.jpg" width="400"><br>
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK5.jpg" width="300"><br>
             <b style="background-color: #f0f0f0;">Case 1: Steering Angle</b>
         </td>
     </tr>
     <tr>
         <td align="center" style="background-color: #f0f0f0;">
-            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK4.jpg" width="400"><br>
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK4.jpg" width="300"><br>
             <b style="background-color: #f0f0f0;">Case 2: Lateral Displacement</b>
         </td>
         <td align="center" style="background-color: #f0f0f0;">
-            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK6.jpg" width="400"><br>
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK6.jpg" width="300"><br>
             <b style="background-color: #f0f0f0;">Case 2: Steering Angle</b>
         </td>
     </tr>
