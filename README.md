@@ -37,6 +37,33 @@ Follow the steps below to set up the simulation environment:
 ---
 ## **Features**
 ### **Simulation Results For Lane-Keeping Problem**
+  1. Lateral displacement and front wheel steering angle. The red dashed lines indicate the safe region for states and control constraints. The top and bottom comparisons illustrate scenarios with and without the control invariant set. The trajectories originate from the vertices of the control invariant set $\mathcal{X}$ and \(\mathcal{Z}\).
+4宫格一次放置Lk3,Lk4,LK5,LK6
+2. State variations of other states, \( v, \psi, r \). The convex polyhedron with a black boundary represents the control invariant set \( \mathcal{X} \), projected in the 3-D space for the other three states at \( y = 0 \). The other lines show the trajectories starting from the vertices of the convex polyhedron. The top and bottom figures represent the simulation results with and without the control invariant set, respectively.
+上下或者左右放置LK1,LK2.jpg
+
+<table>
+    <tr>
+        <td align="center">
+            <img src="Figures/LK3.jpg" width="300"><br>
+            <b>Case 1: Lateral Displacement</b>
+        </td>
+        <td align="center">
+            <img src="Figures/LK5.jpg" width="300"><br>
+            <b>Case 1: Steering Angle</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="Figures/LK4.jpg" width="300"><br>
+            <b>Case 2: Lateral Displacement</b>
+        </td>
+        <td align="center">
+            <img src="Figures/LK6.jpg" width="300"><br>
+            <b>Case 2: Steering Angle</b>
+        </td>
+    </tr>
+</table>
 
 ---
 
