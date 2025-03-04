@@ -38,7 +38,7 @@ Follow the steps below to set up the simulation environment:
 ## **Features**
 ### **Simulation Results For Lane-Keeping Problem**
 
-1. Lateral displacement and front wheel steering angle. The red dashed lines indicate the safe region for states and control constraints. The top and bottom comparisons illustrate scenarios with and without the control invariant set. The trajectories originate from the vertices of the control invariant set $ \mathcal{X} $ and $ \mathcal{Z} $.
+1. Lateral displacement and front wheel steering angle.
 <table align="center">
     <tr>
         <td align="center" style="background-color: white;">
@@ -63,7 +63,7 @@ Follow the steps below to set up the simulation environment:
 </table>
 
 
-2. State variations of other states, \( v, \psi, r \). The convex polyhedron with a black boundary represents the control invariant set \( \mathcal{X} \), projected in the 3-D space for the other three states at \( y = 0 \). The other lines show the trajectories starting from the vertices of the convex polyhedron. The top and bottom figures represent the simulation results with and without the control invariant set, respectively.
+2. State variations of other states, \( v, \psi, r \). 
 
 <table>
     <tr>
@@ -80,13 +80,13 @@ Follow the steps below to set up the simulation environment:
 
 ### **Simulation Results For Adaptive Cruise Problem**
 
-1.Iteration Process and Robust Control Invariant Set. The red regions represent the construction process of the control invariant set using Algorithm 2 (results of the 1st, 6th, ..., 46th iterations). The blue region is the robust control invariant set verified by Theorem 4, highlighting the relationship between the control invariant set and robust control invariant set and the guiding role of the former in constructing the latter.
+1.Iteration Process and Robust Control Invariant Set. 
 <p align="center">
     <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/ACC/Figures/ACC1.jpg" width="500"><br>
     <b>Iteration Process and Robust Control Invariant Set.</b>
 </p>
 
-2.Velocity, Traction Force, and Safety Function Curves for Autonomous Vehicles. The red dashed lines indicate key constraints: cruising velocity (25 m/s) and leading vehicle velocity (varied) in the velocity plot, traction force limits in the traction plot, and margins (\(\varepsilon_0 = 5, 1, 0\)) in the safety plot. Blue (with) and black (without) lines compare cases with and without Constraints for Robust Recursive Feasibility (\textbf{CRRF}), while light color (gray or light blue, without robustness) and original color (with robustness) highlight robustness effects. Markers: * for \(\varepsilon_0 = 5\), \(\circ\) for \(\varepsilon_0 = 1\), and unmarked for \(\varepsilon_0 = 0\).
+2.Velocity, Traction Force, and Safety Function Curves for Autonomous Vehicles. 
 <p align="center">
     <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/ACC/Figures/ACC2.jpg" width="800"><br>
     <b>Velocity, Traction Force, and Safety Function Curves for Autonomous Vehicles.</b>
