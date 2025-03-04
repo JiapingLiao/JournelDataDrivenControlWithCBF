@@ -38,7 +38,7 @@ Follow the steps below to set up the simulation environment:
 ## **Features**
 ### **Simulation Results For Lane-Keeping Problem**
 
-1. Lateral displacement and front wheel steering angle. The red dashed lines indicate the safe region for states and control constraints. The top and bottom comparisons illustrate scenarios with and without the control invariant set. The trajectories originate from the vertices of the control invariant set $\mathcal{X}$ and \(\mathcal{Z}\).
+1. Lateral displacement and front wheel steering angle. The red dashed lines indicate the safe region for states and control constraints. The top and bottom comparisons illustrate scenarios with and without the control invariant set. The trajectories originate from the vertices of the control invariant set $ \mathcal{X} $ and $ \mathcal{Z} $.
 <p align="center">
 <table>
     <tr>
