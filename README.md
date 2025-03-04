@@ -89,7 +89,7 @@ Follow the steps below to set up the simulation environment:
 
 2.Velocity, Traction Force, and Safety Function Curves for Autonomous Vehicles. The red dashed lines indicate key constraints: cruising velocity (25 m/s) and leading vehicle velocity (varied) in the velocity plot, traction force limits in the traction plot, and margins (\(\varepsilon_0 = 5, 1, 0\)) in the safety plot. Blue (with) and black (without) lines compare cases with and without Constraints for Robust Recursive Feasibility (\textbf{CRRF}), while light color (gray or light blue, without robustness) and original color (with robustness) highlight robustness effects. Markers: * for \(\varepsilon_0 = 5\), \(\circ\) for \(\varepsilon_0 = 1\), and unmarked for \(\varepsilon_0 = 0\).
 <p align="center">
-    <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/ACC/Figures/ACC2.jpg" width="300"><br>
+    <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/ACC/Figures/ACC1.jpg" width="300"><br>
     <b>Case 1: Lateral Displacement</b>
 </p>
 
