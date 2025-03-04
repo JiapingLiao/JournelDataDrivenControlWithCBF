@@ -18,7 +18,7 @@ The following MATLAB toolboxes are required to run the simulations:
 Please manually install the following toolboxes:
 - Programming algorithms require:
   **YALMIP**: [Download Here](https://yalmip.github.io/download/), **MOSEK**: [Download Here](https://www.mosek.com/downloads/)
-- Convex polytope computations require:
+- Convex Polyhedron require:
   **MPT3**: [Installation Guide](https://www.mpt3.org/pmwiki.php/Main/Installation)
 
 ---
