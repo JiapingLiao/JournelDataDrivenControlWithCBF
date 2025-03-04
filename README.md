@@ -9,17 +9,17 @@ This repository contains the simulation code for our paper **"Data-Driven Contro
   
 ### **Required MATLAB Toolboxes**
 The following MATLAB toolboxes are required to run the simulations:
-- **Control System Toolbox**
-- **Optimization Toolbox**
-- **Parallel Computing Toolbox**
-- **Robust Control Toolbox**
-- **Automated Driving Toolbox**
+- Algorithms require:
+  **Optimization Toolbox**
+- Simulations require:
+  **Control System Toolbox**, **Parallel Computing Toolbox**, **Robust Control Toolbox**, **Automated Driving Toolbox**
 
 ### **Additional Required Toolboxes**
 Please manually install the following toolboxes:
-- **YALMIP**: [Download Here](https://yalmip.github.io/download/)
-- **MOSEK**: [Download Here](https://www.mosek.com/downloads/)
-- **MPT3**: [Installation Guide](https://www.mpt3.org/pmwiki.php/Main/Installation)
+- Planning algorithms require:
+  **YALMIP**: [Download Here](https://yalmip.github.io/download/), **MOSEK**: [Download Here](https://www.mosek.com/downloads/)
+- Convex polytope computations require:
+  **MPT3**: [Installation Guide](https://www.mpt3.org/pmwiki.php/Main/Installation)
 
 ---
 
