@@ -39,35 +39,29 @@ Follow the steps below to set up the simulation environment:
 ### **Simulation Results For Lane-Keeping Problem**
 
 1. Lateral displacement and front wheel steering angle. The red dashed lines indicate the safe region for states and control constraints. The top and bottom comparisons illustrate scenarios with and without the control invariant set. The trajectories originate from the vertices of the control invariant set $\mathcal{X}$ and \(\mathcal{Z}\).
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK3.jpg" width="300"><br>
+            <b>Case 1: Lateral Displacement</b>
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK5.jpg" width="300"><br>
+            <b>Case 1: Steering Angle</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK4.jpg" width="300"><br>
+            <b>Case 2: Lateral Displacement</b>
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK6.jpg" width="300"><br>
+            <b>Case 2: Steering Angle</b>
+        </td>
+    </tr>
+</table>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK3.jpg" width="300"><br>
-    <b>Case 1: Lateral Displacement</b>
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK5.jpg" width="300"><br>
-    <b>Case 1: Steering Angle</b>
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK4.jpg" width="300"><br>
-    <b>Case 2: Lateral Displacement</b>
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK6.jpg" width="300"><br>
-    <b>Case 2: Steering Angle</b>
-</p>
-
-2. State variations of other states, \( v, \psi, r \). The convex polyhedron with a black boundary represents the control invariant set \( \mathcal{X} \), projected in the 3-D space for the other three states at \( y = 0 \). The other lines show the trajectories starting from the vertices of the convex polyhedron. The top and bottom figures represent the simulation results with and without the control invariant set, respectively.
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK1.jpg" width="400"><br>
-    <b>With Control Invariant Set</b>
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK2.jpg" width="400"><br>
-    <b>Without Control Invariant Set</b>
-</p>
 
 
 
