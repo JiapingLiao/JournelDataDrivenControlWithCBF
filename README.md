@@ -35,6 +35,10 @@ Follow the steps below to set up the simulation environment:
    (Note: Both the `LK` and `ACC` folders contain a file named `File.mat`, which stores the simulation data from the paper. You can directly load these files and use the plotting files to generate plots.)
 
 ---
+## **Features**
+### **Simulation Results For Lane-Keeping Problem**
+
+---
 
 ## **Additional Information**
 If you encounter any issues, please check the respective toolbox documentation or contact the authors for assistance.
