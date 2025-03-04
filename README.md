@@ -38,7 +38,7 @@ Follow the steps below to set up the simulation environment:
 ## **Features**
 ### **Simulation Results For Lane-Keeping Problem**
 
-1. Lateral displacement and front wheel steering angle.
+1. Lateral displacement and front wheel steering angle (Case 1 with Control Invariant Set, Case 2 without). 
 <table align="center">
     <tr>
         <td align="center" style="background-color: white;">
