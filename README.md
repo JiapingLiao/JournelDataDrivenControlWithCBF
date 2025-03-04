@@ -29,8 +29,8 @@ Follow the steps below to set up the simulation environment:
 1. Install **MATLAB/Simulink** (**2024b** recommended) along with the required toolboxes listed above.
 2. Install the additional toolboxes (YALMIP, MOSEK, and MPT3) by following the provided links.
 3. Download the current repository.
-4. Navigate to the `LK` folder and run `LK_Run.mlx` (The plotting code is in a separate mlx file, and `LK_Run` will call it).
-5. Navigate to the `ACC` folder and run `ACC_Run.mlx` (The plotting code is in a separate mlx file, and `ACC_Run` will call it).
+4. Navigate to the `LK` folder and make sure it is the working directory. Then run `LK_Run.mlx` (The plotting code is in a separate mlx file, and `LK_Run` will call it).
+5. Navigate to the `ACC` folder and make sure it is the working directory. Then run `ACC_Run.mlx` (The plotting code is in a separate mlx file, and `ACC_Run` will call it).
 
 ---
 
