@@ -39,30 +39,29 @@ Follow the steps below to set up the simulation environment:
 ### **Simulation Results For Lane-Keeping Problem**
 
 1. Lateral displacement and front wheel steering angle. The red dashed lines indicate the safe region for states and control constraints. The top and bottom comparisons illustrate scenarios with and without the control invariant set. The trajectories originate from the vertices of the control invariant set $ \mathcal{X} $ and $ \mathcal{Z} $.
-<p align="center">
-<table>
+<table align="center">
     <tr>
         <td align="center" style="background-color: white;">
             <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK3.jpg" width="300"><br>
-            <b style="background-color: white;">Case 1: Lateral Displacement</b>
+            <b>Case 1: Lateral Displacement</b>
         </td>
         <td align="center" style="background-color: white;">
             <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK5.jpg" width="300"><br>
-            <b style="background-color: white;">Case 1: Steering Angle</b>
+            <b>Case 1: Steering Angle</b>
         </td>
     </tr>
     <tr>
         <td align="center" style="background-color: white;">
             <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK4.jpg" width="300"><br>
-            <b style="background-color: white;">Case 2: Lateral Displacement</b>
+            <b>Case 2: Lateral Displacement</b>
         </td>
         <td align="center" style="background-color: white;">
             <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK6.jpg" width="300"><br>
-            <b style="background-color: white;">Case 2: Steering Angle</b>
+            <b>Case 2: Steering Angle</b>
         </td>
     </tr>
 </table>
-</p>
+
 
 2. State variations of other states, \( v, \psi, r \). The convex polyhedron with a black boundary represents the control invariant set \( \mathcal{X} \), projected in the 3-D space for the other three states at \( y = 0 \). The other lines show the trajectories starting from the vertices of the convex polyhedron. The top and bottom figures represent the simulation results with and without the control invariant set, respectively.
 
