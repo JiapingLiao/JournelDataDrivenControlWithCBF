@@ -60,19 +60,21 @@ Follow the steps below to set up the simulation environment:
             </td>
         </tr>
     </table>
+    
 2. State variations of other states, \( v, \psi, r \). The convex polyhedron with a black boundary represents the control invariant set \( \mathcal{X} \), projected in the 3-D space for the other three states at \( y = 0 \). The other lines show the trajectories starting from the vertices of the convex polyhedron. The top and bottom figures represent the simulation results with and without the control invariant set, respectively.
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK1.jpg" width="400"><br>
-            <b>With Control Invariant Set</b>
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK2.jpg" width="400"><br>
-            <b>Without Control Invariant Set</b>
-        </td>
-    </tr>
-</table>
+
+    <table>
+        <tr>
+            <td align="center">
+                <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK1.jpg" width="400"><br>
+                <b>With Control Invariant Set</b>
+            </td>
+            <td align="center">
+                <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK2.jpg" width="400"><br>
+                <b>Without Control Invariant Set</b>
+            </td>
+        </tr>
+    </table>
 
 
 
