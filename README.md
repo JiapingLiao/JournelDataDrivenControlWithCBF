@@ -45,21 +45,21 @@ Follow the steps below to set up the simulation environment:
 <table>
     <tr>
         <td align="center">
-            <img src="Figures/LK3.jpg" width="300"><br>
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK3.jpg" width="300"><br>
             <b>Case 1: Lateral Displacement</b>
         </td>
         <td align="center">
-            <img src="Figures/LK5.jpg" width="300"><br>
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK5.jpg" width="300"><br>
             <b>Case 1: Steering Angle</b>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="Figures/LK4.jpg" width="300"><br>
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK4.jpg" width="300"><br>
             <b>Case 2: Lateral Displacement</b>
         </td>
         <td align="center">
-            <img src="Figures/LK6.jpg" width="300"><br>
+            <img src="https://raw.githubusercontent.com/aicpslab/DDControlWithCBF/main/LK/Figures/LK6.jpg" width="300"><br>
             <b>Case 2: Steering Angle</b>
         </td>
     </tr>
